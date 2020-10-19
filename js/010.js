@@ -10,8 +10,8 @@
 ********* 공백 0 / 별 9 (1 ... 9) / 공백 0
 */
 
-
-const num = 5;
+/* 
+const num = 4;
 for(let i=num; i>=1; i--) { // 행 
 	let str = '';
 	for(let j=1; j<=9; j++) { // 열 
@@ -19,10 +19,10 @@ for(let i=num; i>=1; i--) { // 행
 		else str += ' ';
 	}
 	console.log(str);
-}
-
+} */
 
 /*
+답안
 const n = 5;
 let tree = '';
 
@@ -38,3 +38,18 @@ for(let i=1; i<=n; i++) {
 }
 console.log(tree);
 */
+
+
+// 추가
+const num = 5;
+let tree = '';
+for(let i=1; i<=num; i++) {
+	for(let j=num; j>i; j--) { 
+		tree += ' ';
+	}
+	for(let k=1; k<=2*i-1; k++) {
+		tree += '*';
+	}
+	tree += '\n';
+}
+console.log(tree);
