@@ -1,7 +1,9 @@
 # 제주코딩베이스캠프 Code Festival: JavaScript 100제
 
 - [문제1: 배열의 삭제](doc/001.md)
+  - ⭐정리하기: pop, push, shift, unshift
 - [문제2: 배열의 내장함수](doc/002.md)
+  - splice, slice
 - [문제3: 변수의 타입](doc/003.md)
 - [문제4: 변수의 타입2](doc/004.md)
 - [문제5: for문 계산](doc/005.md)
@@ -16,4 +18,11 @@
 - [문제14: 3의 배수 인가요?](doc/014.md)
 - [문제15 : 자기소개](doc/015.md)
 - [문제16 : 로꾸거](doc/016.md)
+  - ⭐정리하기: split, reverse, join
 - [문제17 : 놀이기구 키 제한](doc/017.md)
+- [문제18 : 평균 점수](doc/018.md)
+  - parseInt, Math.floor, ⭐정리하기: reduce
+- [문제19 : 제곱을 구하자](doc/019.md)
+  - Math.pow
+- [문제20 : 몫과 나머지](doc/020.md)
+- [문제21 : set은 어떻게 만드나요?](doc/021.md)
