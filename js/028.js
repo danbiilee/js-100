@@ -20,7 +20,13 @@ const str = 'Javascript';
 const n = 2;
 
 for(let i = 0; i < str.length; i++) {
+	// 주어진 연속 자리수 이전까지만 반복하기
 	if(i <= str.length - n) {
-		console.log(`${str[i]} ${str[i+1]}`);
+		let result = '';
+		// 연속된 수만큼 반복해서 문자열 출력
+		for(let j = i; j < i + n; j++) {
+			result += `${str[j]} `;
+		}
+		console.log(result);
 	}
 }
