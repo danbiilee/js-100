@@ -46,3 +46,5 @@
 - [문제35 : Factory 함수 사용하기](doc/035.md)
   - Math.pow
 - [문제36 : 구구단 출력하기](doc/036.md)
+- [문제37 : 반장 선거](doc/037.md)
+  - ⭐정리하기: Object.key(), reduce
