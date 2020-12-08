@@ -50,3 +50,5 @@
   - ⭐정리하기: Object.key(), reduce
 - [문제38 : 호준이의 아르바이트](doc/038.md)
   - ⭐정리하기: reduce, sort, pop
+- [문제39 : 오타 수정하기](doc/039.md)
+  - 정규표현식
