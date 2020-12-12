@@ -58,3 +58,4 @@
   - ⭐정리하기: 윤년 개념, Date 객체 
 - [문제43 : 10진수를 2진수로](doc/043.md) ✔
   - Number.prototype.toString()
+- [문제44 : 각 자리수의 합](doc/044.md) 
