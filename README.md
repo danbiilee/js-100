@@ -59,3 +59,5 @@
 - [문제43 : 10진수를 2진수로](doc/043.md) ✔
   - Number.prototype.toString()
 - [문제44 : 각 자리수의 합](doc/044.md) 
+- [문제45 : getTime()함수 사용하기](doc/045.md) 
+  - getTime()
