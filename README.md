@@ -1,7 +1,7 @@
 # 제주코딩베이스캠프 Code Festival: JavaScript 100제
 
 - [문제1: 배열의 삭제](doc/001.md)
-  - ⭐정리하기: pop, push, shift, unshift
+  - ⭐pop, push, shift, unshift
 - [문제2: 배열의 내장함수](doc/002.md)
   - splice, slice
 - [문제3: 변수의 타입](doc/003.md)
@@ -18,10 +18,10 @@
 - [문제14: 3의 배수 인가요?](doc/014.md)
 - [문제15 : 자기소개](doc/015.md)
 - [문제16 : 로꾸거](doc/016.md)
-  - ⭐정리하기: split, reverse, join
+  - ⭐split, reverse, join
 - [문제17 : 놀이기구 키 제한](doc/017.md)
 - [문제18 : 평균 점수](doc/018.md)
-  - parseInt, Math.floor, ⭐정리하기: reduce
+  - parseInt, Math.floor, reduce
 - [문제19 : 제곱을 구하자](doc/019.md)
   - Math.pow
 - [문제20 : 몫과 나머지](doc/020.md)
@@ -34,7 +34,7 @@
 - [문제26 : 행성 문제2](doc/026.md)
 - [문제27 : 객체 만들기](doc/027.md)
 - [문제28 : 2-gram](doc/028.md)
-  - ⭐정리하기: N-gram
+  - ⭐N-gram
 - [문제29 : 대문자만 지나가세요](doc/029.md)
 - [문제30 : 문자열 속 문자 찾기](doc/030.md)
 - [문제31 : 자바스크립트 자료형의 복잡도](doc/031.md)
@@ -42,12 +42,12 @@
 - [문제32 : 문자열 만들기](doc/032.md)
 - [문제33 : 거꾸로 출력하기](doc/033.md)
 - [문제34 : sort 구현하기](doc/034.md)
-  - ⭐정리하기: sort
+  - ⭐sort
 - [문제35 : Factory 함수 사용하기](doc/035.md)
   - Math.pow
 - [문제36 : 구구단 출력하기](doc/036.md)
 - [문제37 : 반장 선거](doc/037.md)
-  - ⭐정리하기: Object.key(), reduce
+  - ⭐Object.key(), reduce
 - [문제38 : 호준이의 아르바이트](doc/038.md)
   - ⭐정리하기: reduce, sort, pop
 - [문제39 : 오타 수정하기](doc/039.md)
@@ -55,7 +55,7 @@
 - [문제40 : 놀이동산에 가자](doc/040.md)
 - [문제41 : 소수판별](doc/041.md) ✔
 - [문제42 : 2020년](doc/042.md) ✔
-  - ⭐정리하기: 윤년 개념, Date 객체 
+  - ⭐윤년 개념, Date 객체 
 - [문제43 : 10진수를 2진수로](doc/043.md) ✔
   - Number.prototype.toString()
 - [문제44 : 각 자리수의 합](doc/044.md) 
@@ -65,7 +65,10 @@
 - [문제47 : set 자료형의 응용](doc/047.md) ✔
 - [문제48 : 대소문자 바꿔서 출력하기](doc/048.md) 
 - [문제49 : 최댓값 구하기](doc/049.md) 
-  - ⭐정리하기: sort
+  - ⭐sort
 - [문제50 : 버블정렬 구현하기](doc/050.md) ✔✔
-  - ⭐정리하기: 버블정렬
+  - ⭐버블정렬
 - [문제51 : merge sort를 만들어보자](doc/051.md) ✔✔
+  - ⭐합병정렬
+- [문제52 : quick sort](doc/052.md) ✔✔
+  - ⭐퀵정렬, concat 
