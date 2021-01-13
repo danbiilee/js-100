@@ -77,3 +77,5 @@
 - [문제55 : 하노이의 탑](doc/055.md) ❌
 - [문제56 : 객체의 함수 응용](doc/056.md) ✔
   - Object.keys(), Object.entries(), Object.values(), Math.max
+- [문제57 : 1의 개수](doc/057.md) 
+  - match
