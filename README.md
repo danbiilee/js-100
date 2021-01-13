@@ -47,7 +47,7 @@
   - Math.pow
 - [문제36 : 구구단 출력하기](doc/036.md)
 - [문제37 : 반장 선거](doc/037.md)
-  - ⭐Object.key(), reduce
+  - ⭐Object.keys(), reduce
 - [문제38 : 호준이의 아르바이트](doc/038.md)
   - ⭐정리하기: reduce, sort, pop
 - [문제39 : 오타 수정하기](doc/039.md)
@@ -75,3 +75,5 @@
 - [문제53 : 괄호 문자열](doc/053.md) ❌
 - [문제54 : 연속되는 수](doc/054.md) 
 - [문제55 : 하노이의 탑](doc/055.md) ❌
+- [문제56 : 객체의 함수 응용](doc/056.md) ✔
+  - Object.keys(), Object.entries(), Object.values(), Math.max
