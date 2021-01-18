@@ -84,3 +84,4 @@
   - ⭐ padStart, padEnd
 - [문제60 : 번호 매기기](doc/060.md) ❌
   - ⭐sort
+- [문제61 : 문자열 압축하기](doc/061.md) 
